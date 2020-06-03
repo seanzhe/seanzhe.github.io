@@ -43,7 +43,4 @@ img.center {
 /*This is for centering text in bio.html*/
 p.blocktext {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    width: 8em;
 }
