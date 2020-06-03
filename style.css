@@ -24,12 +24,14 @@ p {
 
 #intro1 {
 	font-family: "Comic Sans MS";
-	font-size: 72px;
+    font-size: 72px;
+    text-align: center;
 }
 
 #intro2 {
 	font-family: "Comic Sans MS";
-	font-size: 8px;
+    font-size: 8px;
+    text-align: center;
 }
 
 h1 {
