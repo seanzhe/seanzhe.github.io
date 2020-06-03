@@ -21,13 +21,6 @@ p {
 	color: white;
 }
 
-/*
-  lines 12 to 14 => 1 CSS *rule*
-  `p` (line 12) => selector. There are three types of selectors...
-  `font-size: 24px;` => 1 *declaration*, a.k.a., property-value pair
-    `font-size` => property
-    `24px` => value
-*/
 
 #intro1 {
 	font-family: "Comic Sans MS";
