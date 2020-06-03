@@ -21,6 +21,10 @@ p {
 	color: white;
 }
 
+img.center {
+    display: block;
+    margin: 0 auto;
+}
 
 #intro1 {
 	font-family: "Comic Sans MS";
@@ -32,8 +36,4 @@ p {
 	font-family: "Comic Sans MS";
     font-size: 8px;
     text-align: center;
-}
-
-h1 {
-	background-color: violet;
 }
