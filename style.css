@@ -39,3 +39,10 @@ img.center {
 	font-family: "Comic Sans MS";
     font-size: 8px;
 }
+
+/*This is for centering text in bio.html*/
+p.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
